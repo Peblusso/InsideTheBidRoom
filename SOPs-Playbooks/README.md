@@ -1,7 +1,6 @@
 # Inside The Bid Room
 
-Welcome to **Inside The Bid Room** — an open-source collection of **proposal templates**, **SOPs**, and **playbooks** designed to streamline bid management.
-
+Welcome to **Inside The Bid Room** — an open-source collection of **proposal templates**, **SOPs**, and **playbooks** designed to streamline bid management and workflows designed for professionals across Africa and beyond. This repository offers a community-driven resource for simplifying proposal processes, from Expressions of Interest (EOIs) to compliance trackers, bid calendars, and much more.
 ##  What’s Inside
 
 - **Proposal Templates**: Ready-to-use templates for EOIs, compliance trackers, bid calendars, and more.
