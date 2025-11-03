@@ -17,27 +17,27 @@ Welcome to **Inside The Bid Room** — an open-source collection of **proposal t
 
 3 Use, customize, and collaborate: Download the templates, adapt them to your needs, and contribute by adding your own insights.
 Folder Structure
-Folder	Description
-Proposal-Templates/	Proposal templates for every step of the process (EOIs, compliance trackers, etc.)
-SOPs-Playbooks/	Our proposal playbook and SOPs templates
-RFP-Tech-AI/	Explore AI tools and tech solutions for automating RFP workflows
-Resources/	Proposal management checklists and other resources
-📄 Contributing
+**Folder	Description**
+**Proposal-Templates**/	Proposal templates for every step of the process (EOIs, compliance trackers, etc.)
+**SOPs-Playbook**s/	Our proposal playbook and SOPs templates
+**RFP-Tech-AI**/	Explore AI tools and tech solutions for automating RFP workflows
+**Resources**/	Proposal management checklists and other resources
 
-Want to contribute to this project? Awesome!
+ Contributing
+**Want to contribute to this project**? Awesome!
 
 Fork the repository: Make it your own.
 
 Add or improve templates/SOPs: Help others with your own experience or workflows.
 
-Submit a pull request: Once you’re happy with your changes, submit them for review.
+Submit a pull request: Once you are happy with your changes, submit them for review.
 
- Connect
+ **Connect**
 
 GitHub: Explore more open-source templates and trackers.
 
 LinkedIn: Join the conversation at Inside the Bid Room where we mix strategy, humor, and real-world bid life.
 
-🎯 License
+** License**
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
