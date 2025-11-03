@@ -2,14 +2,14 @@
 
 Welcome to **Inside The Bid Room** — an open-source collection of **proposal templates**, **SOPs**, and **playbooks** designed to streamline bid management.
 
-## 🚀 What’s Inside
+##  What’s Inside
 
 - **Proposal Templates**: Ready-to-use templates for EOIs, compliance trackers, bid calendars, and more.
 - **SOPs & Playbooks**: Guides to help you streamline your proposal processes.
 - **RFP Tech & AI**: Explore AI tools and tech solutions for automating RFP workflows.
 - **Resources**: Checklists, trackers, and other resources to help you manage proposals.
 
-## 📝 Getting Started
+##  Getting Started
 
 1. **Clone the repository** to get access to all templates and SOPs:
    ```bash
@@ -33,7 +33,7 @@ Add or improve templates/SOPs: Help others with your own experience or workflows
 
 Submit a pull request: Once you’re happy with your changes, submit them for review.
 
-📡 Connect
+ Connect
 
 GitHub: Explore more open-source templates and trackers.
 
