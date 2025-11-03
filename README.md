@@ -8,7 +8,7 @@ Welcome to the InsideThe BidRoom Library — an open-source collection of bid an
 - **RFP Tech & AI**: Insights and tools on AI-driven solutions for automating proposal workflows.
 - **Resources**: Proposal management checklists, trackers, and other tools.
 
-## 📝 Getting Started
+## Getting Started
 
 1. **Clone the repository** to get access to all templates and SOPs:
    ```bash
@@ -25,15 +25,15 @@ Resources/	Proposal management checklists and other resources
 **Contributing**
 Want to contribute to this project? Awesome!
 
-Fork the repository: Make it your own.
+**Fork the repository**: Make it your own.
 
-Add or improve templates/SOPs: Help others with your own experience or workflows.
+**Add or improve templates/SOPs**: Help others with your own experience or workflows.
 
-Submit a pull request: Once you’re happy with your changes, submit them for review.
+**Submit a pull request: Once you’re happy with your changes, submit them for review.
 ** Connect**
 GitHub: Explore more open-source templates and trackers.
 
 LinkedIn: Join the conversation at Inside the Bid Room.
 
-🎯 License
+License
 This repository is licensed under the MIT License. See the LICENSE file for details.
