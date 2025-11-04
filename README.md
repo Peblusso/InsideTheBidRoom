@@ -1,15 +1,12 @@
 # InsideTheBidRoom
 Welcome to the InsideThe BidRoom Library — an open-source collection of bid and proposal templates, tools, and workflows designed for professionals across Africa and beyond. This repository offers a community-driven resource for simplifying proposal processes, from Expressions of Interest (EOIs) to compliance trackers, bid calendars, and much more.
 
-Browse the folders: Check out the following folders for the respective contents:
+##  What’s Inside
 
-Proposal-Templates/
-
-SOPs-Playbooks/
-
-RFP-Tech-AI/
-
-Resources/
+- **Proposal Templates**: Ready-to-use templates for EOIs, compliance trackers, bid calendars, and more.
+- **SOPs & Playbooks**: Guides on best practices, proposal workflows, and SOPs for managing proposal tasks.
+- **RFP Tech & AI**: Tools and insights on using AI to automate proposal workflows.
+- **Resources**: Checklists, trackers, and other proposal management tools.
 
 **Folder	Description**
 Proposal-Templates/
