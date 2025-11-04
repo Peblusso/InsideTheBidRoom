@@ -1,12 +1,25 @@
 # InsideTheBidRoom
 Welcome to the InsideThe BidRoom Library — an open-source collection of bid and proposal templates, tools, and workflows designed for professionals across Africa and beyond. This repository offers a community-driven resource for simplifying proposal processes, from Expressions of Interest (EOIs) to compliance trackers, bid calendars, and much more.
 
-## What’s Inside
+Browse the folders: Check out the following folders for the respective contents:
 
-- **Proposal Templates**: Ready-to-use templates for EOIs, compliance trackers, bid calendars, and more.
-- **SOPs & Playbooks**: Guides on best practices, proposal workflows, and SOPs for managing proposal tasks.
-- **RFP Tech & AI**: Insights and tools on AI-driven solutions for automating proposal workflows.
-- **Resources**: Proposal management checklists, trackers, and other tools.
+Proposal-Templates/
+
+SOPs-Playbooks/
+
+RFP-Tech-AI/
+
+Resources/
+
+**Folder	Description**
+Proposal-Templates/
+	Proposal templates for every step of the process (EOIs, compliance trackers, etc.)
+SOPs-Playbooks/
+	Proposal playbook and SOPs templates
+RFP-Tech-AI/
+	Explore AI tools and tech solutions for automating RFP workflows
+Resources/
+	Additional proposal management resources
 
 ## Getting Started
 
@@ -14,13 +27,6 @@ Welcome to the InsideThe BidRoom Library — an open-source collection of bid an
    ```bash
    git clone https://github.com/YourUsername/Inside-The-Bid-Room.git
 Browse the folders: Check out the Proposal-Templates/ for bid templates, SOPs-Playbooks/ for detailed guides, and RFP-Tech-AI/ for tech solutions.
-
-Folder Structure
-**Folder	Description**
-Proposal-Templates/	Proposal templates for every step of the process (EOIs, compliance trackers, etc.)
-SOPs-Playbooks/	Proposal playbook and SOPs templates
-RFP-Tech-AI/	Explore AI tools and tech solutions for automating RFP workflows
-Resources/	Proposal management checklists and other resources
 
 **Contributing**
 Want to contribute to this project? Awesome!
